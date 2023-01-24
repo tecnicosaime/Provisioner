@@ -1,0 +1,10 @@
+<module>
+	<rawname>provisioner</rawname>
+	<repo>unsupported</repo>
+	<name>Provisioner</name>
+	<version>5.3.3</version>
+	<type>setup</type>
+	<category>Settings</category>
+	<license>GPLv3+</license>
+	<licenselink>http://www.gnu.org/licenses/gpl-3.0.txt</licenselink>
+</module>
